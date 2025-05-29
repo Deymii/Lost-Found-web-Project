@@ -19,6 +19,8 @@ This project was built using the following technologies:
 - 🔗 MySQL Database Integration
 A structured MySQL database (hosted via WAMP server) stores all user registrations and lost item post details, ensuring organized and efficient data management.
 
+---
+
 - ⚙️ Dynamic Backend with PHP
 The backend is fully developed using PHP, handling all server-side operations including user authentication, post creation, and data retrieval.
 
