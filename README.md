@@ -15,7 +15,18 @@ This project was built using the following technologies:
 
 ---
 
-##Functionalities
+## Functionalities
+- 🔗 MySQL Database Integration
+A structured MySQL database (hosted via WAMP server) stores all user registrations and lost item post details, ensuring organized and efficient data management.
+
+- ⚙️ Dynamic Backend with PHP
+The backend is fully developed using PHP, handling all server-side operations including user authentication, post creation, and data retrieval.
+
+- 📸 User-Generated Posts with Image Uploads
+Registered users can create posts describing lost items and upload relevant images, making it easier for others to identify and help recover the items.
+
+- 🔍 Post Filtering for Better Usability
+Users can filter posts to narrow down results based on specific criteria, improving the overall browsing and searching experience.
 
 ## 📸 Project Screenshots
 
