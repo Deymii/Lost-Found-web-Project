@@ -35,5 +35,5 @@ Here are some images showcasing the project:
 ![Screenshot 5](https://github.com/Deymii/Lost-Found-web-Project/blob/1895d5ccdcbe2c9e235b7da2490033a40fcae354/Web%20Project%20Screenshots/Filter%20Posts.png)
 
 ### 🖼 Published Post:
-![Screenshot 6]([https://github.com/Deymii/Lost-Found-web-Project/blob/1895d5ccdcbe2c9e235b7da2490033a40fcae354/Web%20Project%20Screenshots/Filter%20Posts.png](https://github.com/Deymii/Lost-Found-web-Project/blob/1895d5ccdcbe2c9e235b7da2490033a40fcae354/Web%20Project%20Screenshots/Post.png))
+![Screenshot 6](https://github.com/Deymii/Lost-Found-web-Project/blob/1895d5ccdcbe2c9e235b7da2490033a40fcae354/Web%20Project%20Screenshots/Post.png)
 
