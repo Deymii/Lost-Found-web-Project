@@ -20,7 +20,7 @@ This project was built using the following technologies:
 Here are some images showcasing the project:
 
 ### 🖼 Home Page:
-![Screenshot 1]()
+![Screenshot 1](https://github.com/Deymii/Lost-Found-web-Project/blob/3c8affdf615b7c01295d9bbfb053e29176630c7a/Web%20Project%20Screenshots/Home%20Page.png)
 
 ### 🖼 Sign Up:
 ![Screenshot 2]()
