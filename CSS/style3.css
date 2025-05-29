@@ -1,0 +1,122 @@
+ /* Modal container */
+ .modal {
+     display: flex;
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background-color: rgba(0, 0, 0, 0.5);
+     z-index: 1000;
+     justify-content: center;
+     align-items: center;
+ }
+
+
+ /* Modal content (The container of the form) */
+ .modal-content {
+     background-color: #fff;
+     padding: 20px;
+     border-radius: 10px;
+     width: 90%;
+     height: 80%;
+     max-width: 400px;
+     text-align: center;
+     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+     background-color: #85A98F;
+     color: white;
+ }
+
+ /* Close button for java script minipulation (Didn't do it yet!) */
+ .close-btn {
+     background: red;
+     color: white;
+     border: none;
+     padding: 5px 10px;
+     border-radius: 3px;
+     cursor: pointer;
+ }
+
+ /*This is for all inputs inside the form including the button*/
+ .inpbox,
+ .inpbox2 {
+     width: 60%;
+     height: 40px;
+     border-radius: 30px;
+     font-size: 15px;
+     border: black solid 2px;
+
+ }
+
+
+ /*Specifically targets the button (In sign up page I need to adjust it)*/
+ h2 {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: 40px;
+ }
+
+ button.inpbox,
+ input.inpbox2 {
+     width: 40%;
+     height: 30px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     background-color: rgba(4, 52, 15, 0.374);
+     color: white;
+     cursor: pointer;
+     transition: background-color 1s, font-size 1s;
+ }
+
+
+
+ button.inpbox:hover,
+ input.inpbox2:hover {
+     font-size: large;
+     color: black;
+     background-color: rgba(255, 255, 255, 0.8);
+ }
+
+ button.inpbox:active {
+     width: 50%;
+     height: 40px;
+     background-color: rgba(4, 52, 15, 0.374);
+     color: white;
+ }
+
+ input.inpbox {
+     padding-left: 10px;
+     padding-right: 10px;
+ }
+
+ input.inpbox::placeholder {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: 600;
+ }
+
+ .modal-content label {
+     font-size: 15px;
+     font-weight: bold;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-bottom: 5px;
+ }
+
+ /*The above is for log in */
+
+ /* The following is for sign up:*/
+ .errorMsg,
+ .error {
+     color: #900C3F;
+     font-weight: bold;
+     margin: 0px;
+ }
+
+ /*Button to close log in and sign up page and transfer the user to the index.php*/
+
+ #closeButton {
+     color: black;
+     background-color: #85a98f9e;
+ }
