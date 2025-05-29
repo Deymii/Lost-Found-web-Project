@@ -15,6 +15,8 @@ This project was built using the following technologies:
 
 ---
 
+##Functionalities
+
 ## 📸 Project Screenshots
 
 Here are some images showcasing the project:
